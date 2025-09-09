@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...download hacking software 
 - 🌱 I’m currently learning ... How to code 
 - 💞️ I’m looking to collaborate on ...coding 
-- 📫 How to reach me ...whatapp 09159101311 
+- 📫 How to reach me ...greatc049@gmail.com
 
 <!---
 Chibueze0k/Chibueze0k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
