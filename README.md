@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Chibueze0k
-- 👀 I’m interested in ...download hacking software 
-- 🌱 I’m currently learning ... How to code 
-- 💞️ I’m looking to collaborate on ...coding 
-- 📫 How to reach me ...greatc049@gmail.com
-
-<!---
-Chibueze0k/Chibueze0k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m De Great  
+💻 Cybersecurity & Ethical Hacking Enthusiast  
+🔒 Passionate about securing systems and exploring vulnerabilities  
+🧠 Currently learning Python, Kali Linux, and Web Security and always will.
+🚀 Building mock security tools & web applications to sharpen my skills  
+🎯 Aspiring Certified Penetration Tester | Focused on continuous growth  
+📫 Connect with me on Twitter: @Cyber_Great_Lab
